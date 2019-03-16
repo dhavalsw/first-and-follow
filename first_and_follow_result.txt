@@ -1,0 +1,6 @@
+S : a epsilon b c : $ 
+A : a epsilon : c b 
+B : b epsilon : c 
+C : c : $ e d 
+D : d epsilon : $ e 
+E : e epsilon : $ 
